@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Audio and Video Embedding</title>
+</head>
+<body>
+
+<h1>Embedding Audio And Vedio in HTML</h1>
+
+<h2>Audio Player</h2>
+<audio controls>
+<source src ="C:\Users\HP\Downloads\saiyaara-reprise-female-raag-fm-2025-67710-67769.mp3">
+</audio>
+
+<h2>video Player</h2>
+<video width="640" height="360" controls>
+<source src="C:\Users\HP\Downloads\17924481-uhd_2160_3840_60fps.mp4">
+</video>
+
+</body>
+</html>
